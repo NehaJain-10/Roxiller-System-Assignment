@@ -2,14 +2,6 @@
 A full-stack Role-Based Management System built with **React.js**, **Express.js**, and **MySQL**.  
 It allows different types of users (Admin, Normal User, Store Owner) to interact with stores and ratings based on their roles.
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js, Axios, React Router DOM
-- **Backend:** Node.js, Express.js, JWT
-- **Database:** MySQL
-- **Authentication:** JSON Web Token (JWT)
-- **Password Security:** bcryptjs
-
 ## 📌 Features
 
 ### 🔐 Authentication (JWT Based)
@@ -32,22 +24,6 @@ It allows different types of users (Admin, Normal User, Store Owner) to interact
 - Rate or update rating for stores
 - Update password
 - Logout
-
-
-
-## Project Structure
-roxiller-system/
-├── backend/
-│ ├── server.js
-│ ├── .env.example
-│ ├── routes/
-│ ├── utils/
-│ ├── middlewares/
-│ └── roxiller.sql
-├── frontend/
-│ ├── src/
-│ └── package.json
-├── README.md
 
 
 ##   1. Backend Setup--->
